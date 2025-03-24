@@ -1,2 +1,4 @@
 Bu bir deneme dosyasıdır.
 ikinci deneme komutu girildi.
+
+İkinci branch oluşturuldu. Üçüncü deneme komutu ekleniyor. 
