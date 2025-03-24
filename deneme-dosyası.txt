@@ -1,4 +1,6 @@
-Bu bir deneme dosyasıdır.
-ikinci deneme komutu girildi.
+--Bu bir deneme dosyasıdır.
+--ikinci deneme komutu girildi.
 
-İkinci branch oluşturuldu. Üçüncü deneme komutu ekleniyor. 
+--İkinci branch oluşturuldu. Üçüncü deneme komutu ekleniyor.
+
+--Üçüncü branch oluşturuldu.
